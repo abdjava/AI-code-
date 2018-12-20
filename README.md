@@ -1,4 +1,4 @@
-# AI-code-
+# AI-code-abdul
 This some of the java code i Made for learning basic Ai systems nothing fancy just some basic genetic algorithm and neural network
 
 All the code is wrriten in java based enviroment called processing . You can open it in other IDES but you will need to add processing
